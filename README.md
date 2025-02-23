@@ -1,5 +1,5 @@
 
-### Olá!! Eu sou a Isabela Valim
+### Olá!! Eu sou a Isabela Valim, essas são minhas principais redes de contato:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valimm.isa?igsh=NW9ram04ZnFxazIy)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-valim-2715a9298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
